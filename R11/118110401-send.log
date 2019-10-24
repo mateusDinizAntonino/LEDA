@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-10-21T23:22:35.178-0300</date>
+  <logger>MATEUS DINIZ ANTONINO</logger>
+  <level>FINE</level>
+  <message>File 118110401-MATEUS DINIZ ANTONINO.zip was received. It was sent by MATEUS DINIZ ANTONINO from IP 192.168.25.5 at 21-10-2019 23*22*35</message>
+</record>
